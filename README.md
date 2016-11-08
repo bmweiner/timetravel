@@ -20,4 +20,7 @@ For a summary, just enable `report`.
     ('Origination', ':', '20161101')
     ('Destination', ':', '20161108')
 
-See the example [jupyter notebook](#) or parse [docstring](#) for more info.
+See the example [jupyter notebook][1] or parse [docstring][2] for more info.
+
+[1]: https://github.com/bmweiner/timetravel/blob/master/example/example.ipynb
+[2]: https://github.com/bmweiner/timetravel/blob/master/timetravel/parse.py#L10
