@@ -5,8 +5,8 @@ python:
 addons:
   apt_packages:
   - pandoc
-install: none
-script: none
+install: pip install .
+script: pytest
 deploy:
   provider: pypi
   user: bmweiner
