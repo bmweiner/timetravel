@@ -1,3 +1,5 @@
+[![BuildStatus](https://travis-ci.org/bmweiner/timetravel.svg?branch=master)](https://travis-ci.org/bmweiner/timetravel)
+
 # timetravel
 
 A simple utility for bulk shifting all event dates in your calendar.
@@ -20,7 +22,8 @@ For a summary, just enable `report`.
     ('Origination', ':', '20161101')
     ('Destination', ':', '20161108')
 
-See the example [jupyter notebook][1] or parse [docstring][2] for more info.
-
-[1]: https://github.com/bmweiner/timetravel/blob/master/example/example.ipynb
-[2]: https://github.com/bmweiner/timetravel/blob/master/timetravel/parse.py#L10
+See the example
+[jupyter notebook](https://github.com/bmweiner/timetravel/blob/master/example/example.ipynb)
+or parse
+[docstring](https://github.com/bmweiner/timetravel/blob/master/timetravel/parse.py#L10)
+for more info.
